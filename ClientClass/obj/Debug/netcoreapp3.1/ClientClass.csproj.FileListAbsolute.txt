@@ -1,0 +1,8 @@
+D:\GitHub\ClassLibrary\ClientClass\bin\Debug\netcoreapp3.1\ClientClass.deps.json
+D:\GitHub\ClassLibrary\ClientClass\bin\Debug\netcoreapp3.1\ClientClass.dll
+D:\GitHub\ClassLibrary\ClientClass\obj\Debug\netcoreapp3.1\ClientClass.AssemblyInfoInputs.cache
+D:\GitHub\ClassLibrary\ClientClass\obj\Debug\netcoreapp3.1\ClientClass.AssemblyInfo.cs
+D:\GitHub\ClassLibrary\ClientClass\obj\Debug\netcoreapp3.1\ClientClass.csprojAssemblyReference.cache
+D:\GitHub\ClassLibrary\ClientClass\bin\Debug\netcoreapp3.1\ClientClass.pdb
+D:\GitHub\ClassLibrary\ClientClass\obj\Debug\netcoreapp3.1\ClientClass.dll
+D:\GitHub\ClassLibrary\ClientClass\obj\Debug\netcoreapp3.1\ClientClass.pdb

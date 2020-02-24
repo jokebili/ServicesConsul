@@ -1,0 +1,8 @@
+D:\GitHub\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+D:\GitHub\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+D:\GitHub\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csprojAssemblyReference.cache
+D:\GitHub\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+D:\GitHub\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+D:\GitHub\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+D:\GitHub\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+D:\GitHub\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb
